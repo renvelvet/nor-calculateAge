@@ -1,8 +1,12 @@
 body {
-    margin-left: 150px;
-    margin-top: 50px;
+  margin-left: 150px;
+  margin-top: 50px;
 }
 
 form {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+#hasil-konversi {
+  margin-top: 20px;
 }
